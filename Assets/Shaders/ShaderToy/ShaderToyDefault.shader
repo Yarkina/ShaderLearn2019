@@ -11,7 +11,6 @@
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-
             struct appdata
             {
                 float4 vertex : POSITION;
